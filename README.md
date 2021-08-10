@@ -4,9 +4,9 @@
 ## I'm a Graduate Computer Games Programmer, Gamer, and Cyclist
 - 👨‍💻 My Lastest Project is a small mobile game made in unity aimed for a released in October
 - 🎯 2021 Targets
--- 🎓 Get a First in University ✔️
--- 📱 Release a Mobile Game
--- 👔 Obtain a professional programming job
+    -- 🎓 Get a First in University ✔️
+    -- 📱 Release a Mobile Game
+    -- 👔 Obtain a professional programming job
 - Fun fact: 🚵🏽 I'm currently planning and training to Cyle from "John O' groats" in scotland to "Lands End" in Cornwall (most northen point of the uk to the most southwestern point)
 
 ### Connect with me:
