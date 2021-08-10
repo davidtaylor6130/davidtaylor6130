@@ -2,7 +2,7 @@
 ### Hi there, I'm David - aka davidtaylor6130 👋
 
 ## I'm a Graduate Computer Games Programmer, Gamer, and Cyclist
-* 👨‍💻 My Lastest Project is a small mobile game made in unity aimed for a released in October
+* 👨‍💻 My latest project is a small mobile game made in Unity aimed for a release in October
 * 🎯 2021 Targets
   * 🎓 Get a First in University ✔️
   * 📱 Release a Mobile Game
