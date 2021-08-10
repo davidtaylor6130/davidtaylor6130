@@ -50,3 +50,7 @@
 [Git]: https://git-scm.com/
 [GithubDesktop]: https://desktop.github.com/
 [Linux]: https://ubuntu.com/
+
+### Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtaylor6130&show_icons=true&locale=en&layout=compact" alt="davidtaylor6130" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidtaylor6130&show_icons=true&locale=en" alt="davidtaylor6130" /></p>
