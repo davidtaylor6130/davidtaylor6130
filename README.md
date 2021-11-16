@@ -26,6 +26,7 @@
 [<img  align="left"  alt="Tensorflow"  width="26px"  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  />][Tensorflow]
 
 [<img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://code.visualstudio.com/assets/images/code-stable.png"  />][VsCode]
+[<img  align="left"  alt="Visual Studio Code For Mac"  width="26px"  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/05/VSMac2019_32px.svg"  />][VsCode]
 [<img  align="left"  alt="Visual Studio 2015/2015"  width="26px"  src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"  />][Vs2019]
 [<img  align="left"  alt="Unity"  width="26px"  src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"  />][Unity]
 [<img  align="left"  alt="Unreal Engine 4"  width="26px"  src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"  />][UE4]
@@ -45,6 +46,7 @@
 [Tensorflow]: https://www.tensorflow.org/
 [VsCode]: https://code.visualstudio.com/
 [Vs2019]: https://visualstudio.microsoft.com/vs/
+[VsForMac]: https://visualstudio.microsoft.com/vs/mac/
 [Unity]: https://unity.com/
 [UE4]: https://www.unrealengine.com/en-US/
 [Git]: https://git-scm.com/
