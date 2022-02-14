@@ -1,7 +1,7 @@
 
 ### Hi there, I'm David - aka davidtaylor6130 👋
 
-## I'm a Graduate Computer Games Programmer, Gamer, and Cyclist
+## I'm currently a part-time lecture at Staffordshire University | Founder of TaylorMadeCode  |  Cyclist  |  Destiny Nerd (Since Day 1 - Destiny 1)  |  AI Enthusiast  |
 * 🎯 2022 Targets
   * 📱 Release a Mobile Game
   * 🚴 Cycle 100 miles in one ride (Current best is 50.09 miles).
