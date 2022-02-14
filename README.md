@@ -2,11 +2,10 @@
 ### Hi there, I'm David - aka davidtaylor6130 👋
 
 ## I'm a Graduate Computer Games Programmer, Gamer, and Cyclist
-* 👨‍💻 My latest project is a small mobile game made in Unity aimed for a release Before the end of the year
-* 🎯 2021 Targets
-  * 🎓 Get a First in University ✔️
+* 🎯 2022 Targets
   * 📱 Release a Mobile Game
-  *  👔 Obtain a professional programming job ✔️
+  * 🚴 Cycle 100 miles in one ride.
+  * 🎮 Release Multiple assets for my company Taylor Made Code.
 * Fun fact: 🚵🏽 I'm currently planning and training to Cyle from "John O' groats" in scotland to "Lands End" in Cornwall (most northen point of the uk to the most southwestern point)
 
 ### Connect with me:
