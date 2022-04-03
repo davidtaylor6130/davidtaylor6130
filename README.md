@@ -3,9 +3,8 @@
 
 ## I'm currently a part-time lecture at Staffordshire University
 * 🎯 2022 Targets
-  * 📱 Release a Mobile Game
+  * ✔ 📱 Release a Mobile Game
   * 🚴 Cycle 100 miles in one ride (Current best is 50.09 miles).
-  * 🎮 Release Multiple assets for my company Taylor Made Code.
 * Fun fact: 🚵🏽 I'm currently planning and training to Cyle from "John O' groats" in scotland to "Lands End" in Cornwall (most northen point of the uk to the most southwestern point)
 
 ### Connect with me:
