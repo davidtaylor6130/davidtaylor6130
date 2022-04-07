@@ -1,7 +1,7 @@
 
 ### Hi there, I'm David - aka davidtaylor6130 👋
 
-## I'm currently a part-time lecture at Staffordshire University
+## I'm currently a part-time lecturer at Staffordshire University
 * 🎯 2022 Targets
   * ✔ 📱 Release a Mobile Game
   * 🚴 Cycle 100 miles in one ride (Current best is 50.09 miles).
