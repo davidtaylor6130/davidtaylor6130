@@ -1,11 +1,13 @@
 
 ### Hi there, I'm David - aka davidtaylor6130 👋
 
-## I'm currently a part-time lecturer at Staffordshire University
-* 🎯 2022 Targets
-  * ✔ 📱 Release a Mobile Game
-  * 🚴 Cycle 100 miles in one ride (Current best is 50.09 miles).
-* Fun fact: 🚵🏽 I'm currently planning and training to Cyle from "John O' groats" in scotland to "Lands End" in Cornwall (most northen point of the uk to the most southwestern point)
+## I'm currently a Junior Developer at Inspired
+* 🎯 2023 Targets
+  *  Practice and improve my C# Skills
+  *  Work on developing a pure C++ Neural Network Foundation
+  *  Improve the Website altering tool I developed in 2022
+* Fun fact: 
+  * In Archery I can shoot three arrows into a target's bullseye from 20 meters
 
 ### Connect with me:
 [<img align="left" alt="davidtaylor6130.github.io" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
