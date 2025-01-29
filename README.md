@@ -240,5 +240,5 @@ Below is a **curated** selection of my work. [Explore all repos here.](https://g
 </p>
 
 <p align="center">
-  <em>Last Updated: [Replace with Current Date]</em>
+  <em>Last Updated: 29/01/25</em>
 </p>
