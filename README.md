@@ -1,14 +1,16 @@
-<!-- Banner Example (Optional) -->
-<!--
-<p align="center">
-  <img src="https://github.com/davidtaylor6130/davidtaylor6130/blob/main/banner.png" alt="David Taylor Banner" />
-</p>
+<!-- 
+  (Optional) If you have a banner image, uncomment the following and place your custom banner link
+  <p align="center">
+    <img src="https://github.com/davidtaylor6130/davidtaylor6130/blob/main/banner.png" alt="David Taylor Banner"/>
+  </p>
 -->
 
-<h1 align="center">Hi there, I'm David Taylor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hey there, I'm David Taylor 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+</h1>
 
 <p align="center">
-  <b>C++ Programmer • AI & Web Dev Enthusiast • 3D Printer • Archer</b>
+  <b>C++ Programmer | AI & Web Dev Enthusiast | Unity Asset Creator | Archer</b>
 </p>
 
 <p align="center">
@@ -19,33 +21,36 @@
     <img src="https://img.shields.io/twitter/follow/DavidTaylor6130?style=social" alt="Twitter Badge">
   </a>
   <a href="https://www.linkedin.com/in/davidtaylor6130/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin" alt="LinkedIn Badge">
   </a>
   <a href="https://davidtaylor6130.github.io/">
-    <img src="https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=netlify" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github" alt="Portfolio Badge">
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- **C++ Programmer** with **3+ years of industry experience**.
-- Specialized in **C++**, with functional knowledge of **C#, JavaScript, Python, React,** and **Tailwind**.
-- Passionate about **AI**, **Web Development**, and releasing **Unity Assets**.
-- **Code in Thousands of UK Stores:** My software helps keep things running smoothly.
-- Outside of code, I love **archery**, **cycling**, **3D printing**, and **long walks**.
 
-## 🎯 Current Goals
-- ❔ **Buy my first home**.
-- ✅ **Promoted from Junior Software Developer to Software Developer**.
-- ❔ **Release more code assets under my brand and speak about it more**.
+- **3+ years** of industrial experience, primarily in **C++**.
+- Also skilled in **C#, JavaScript, Python, React,** and **Tailwind**.
+- Interested in **AI**, **Web Development**, and building on **Unity**.
+- My code powers **thousands of stores across the UK**—stability is everything.
+- Outside coding: I’m an **archery** enthusiast, cyclist, 3D printing hobbyist, and nature walker.
 
-## 🏹 Fun Fact
-- **Archery Enthusiast**: I can shoot three arrows into the bullseye from 20 meters!
+### 🎯 Current Goals
+
+- ❔ **Buy my first home**  
+- ✅ **Promoted from Junior Software Developer to Software Developer**  
+- ❔ **Release more code assets and speak about them**  
+
+### 🏹 Fun Fact
+
+- **Archery Nerd**: I’ve mastered shooting three arrows into the bullseye from 20m.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠 Tech & Tools
 
 <p align="left">
   <!-- C++ -->
@@ -84,12 +89,11 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
-<!-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <!-- Light Mode -->
   <picture>
+    <!-- Light Mode -->
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=davidtaylor6130&show_icons=true&theme=default&hide_border=true"
       media="(prefers-color-scheme: light)"
@@ -101,13 +105,15 @@
       width="400"
     />
   </picture>
+  <br/>
 
-  <!-- Top Langs -->
   <picture>
+    <!-- Light Mode -->
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtaylor6130&layout=compact&theme=default&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
+    <!-- Dark Mode -->
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtaylor6130&layout=compact&theme=dracula&hide_border=true"
       alt="David's Top Languages"
@@ -116,15 +122,16 @@
   </picture>
 </p>
 
-<!-- GitHub Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <picture>
-    <source
+    <!-- Light Mode -->
+    <source 
       srcset="https://github-readme-streak-stats.herokuapp.com?user=davidtaylor6130&theme=default&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=davidtaylor6130&theme=dark&hide_border=true"
+    <!-- Dark Mode -->
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=davidtaylor6130&theme=dracula&hide_border=true"
       alt="GitHub Streak"
       width="400"
     />
@@ -133,218 +140,86 @@
 
 ---
 
-## 🗂️ Projects & Contributions
+## ⚡ Projects & Highlights
 
-Below is a curated list of my projects. (Hover or click to expand each section!)
+Below is a **curated** selection of my work. [Explore all repos here.](https://github.com/davidtaylor6130?tab=repositories)
 
 <details>
-  <summary><b>🎉 Featured / Favorite Projects</b></summary>
-  
-  - **FYP Self Driving Car**  
-    <img src="https://github.com/davidtaylor6130/Final-Year-Project/raw/main/README_Assets/FYP.png" width="300" align="right" alt="FYP Self Driving Car" />
-    <br/>
-    <b>Tech:</b> C++, UE4, TensorFlow, Python  
-    <b>Description:</b> A self-driving car navigating off-road terrains with TensorFlow, Python, C++, and UE4.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Final-Year-Project)
+  <summary><strong>Featured Projects</strong></summary>
 
-  ---
+  - **FYP Self Driving Car**  
+    - **Tech:** C++, UE4, TensorFlow, Python  
+    - **Description:** Self-driving car on off-road terrains.  
+    - **Link:** [GitHub](https://github.com/davidtaylor6130/Final-Year-Project)
 
   - **Going Quackers Engine**  
-    <img src="https://github.com/davidtaylor6130/GoingQuackersEngine" width="300" align="right" alt="Going Quackers Engine" />
-    <br/>
-    <b>Tech:</b> C++, DirectX 11  
-    <b>Description:</b> A group project where we built a DirectX-11 engine from scratch, enabling swappable graphics APIs.  
-    <b>Link:</b> [GitHub](https://github.com/JennyBeanTheSkelepun/GGD-GoingQuackersFramework)
-
-  ---
+    - **Tech:** C++, DirectX 11  
+    - **Description:** A custom 3D engine enabling swappable graphics APIs.  
+    - **Link:** [GitHub](https://github.com/JennyBeanTheSkelepun/GGD-GoingQuackersFramework)
 
   - **What Is Lurking In The Dark V2**  
-    <img src="https://github.com/davidtaylor6130/PrivateRepSplashPage/raw/main/README_Assets/WLITHV2.PNG" width="300" align="right" alt="WLITH V2" />
-    <br/>
-    <b>Tech:</b> C#, Unity  
-    <b>Description:</b> My ultimate passion project—an ambitious horror game with deeper mechanics and storyline.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/PrivateRepSplashPage)
-  
+    - **Tech:** C#, Unity  
+    - **Description:** My long-term passion project (horror game).  
+    - **Link:** [GitHub](https://github.com/davidtaylor6130/PrivateRepSplashPage)
 </details>
 
 <details>
-  <summary><b>🎮 Games & Engines</b></summary>
-
-  - **Escape The Code**  
-    <b>Tech:</b> C#, Unity  
-    <b>Description:</b> A 70-hour jam game for the 2021 Grads in Games competition. Control a sentient virus escaping developers.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Search-For-A-Star)
-  
-  - **WhatsChat**  
-    <b>Tech:</b> C#, Networking, Multithreading  
-    <b>Description:</b> An online chat client for a university module. Features a basic GUI and checkers-based networking.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/multi-threaded-networking/tree/master/Server)
-  
-  - **Low Level Optimisations**  
-    <b>Tech:</b> C++, Linux  
-    <b>Description:</b> Optimized a ray-traced renderer from 31.54s to 0.9s. Ported to Linux, implemented custom memory manager.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Low-Level-Programming)
-  
-  - **Lurking In The Dark**  
-    <b>Tech:</b> C#, Unity  
-    <b>Description:</b> Created for the Sumo Digital Rising Star challenge. A horror prototype expanded into a Steam game.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Lurking-In-The-Dark)
-  
-  - **Implode Engine**  
-    <b>Tech:</b> C++, DirectX 11  
-    <b>Description:</b> 3D engine built in second year, focusing on physics simulation.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/further-graphical-systems/tree/master/Semester%202%20Project/Semester%202)
-  
-  - **Voxel-O-Defence**  
-    <b>Tech:</b> C++, DirectX 11  
-    <b>Description:</b> A tower defense game with voxel-like turret and enemy models.  
-    <b>Link:</b> [GitHub](https://github.com/limanniel/Voxel-o-Defense)
-
-  - **3D Asteroids**  
-    <b>Tech:</b> C++, OpenGL  
-    <b>Description:</b> First 3D game project using FreeGLUT in freshman year.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Fogs-S2-3d-cube)
-
-  - **Mario Bros**  
-    <b>Tech:</b> C++, SDL  
-    <b>Description:</b> A 2D Mario clone with custom level editor and additional features.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Mario-S2-engine)
-
-  - **Tank Wars**  
-    <b>Tech:</b> C++  
-    <b>Description:</b> First time implementing A* pathfinding & steering behaviors for an AI course.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Games-Ai)
-
-  - **Chess AI**  
-    <b>Tech:</b> C++, DirectX 11  
-    <b>Description:</b> Minimax chess opponent with alpha-beta pruning for performance.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Final-Year-AI/tree/master/Chess%202.0)
-
-  - **Tower Defense**  
-    <b>Tech:</b> C++  
-    <b>Description:</b> Genetic algorithm-based AI for a tower defense scenario.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Final-Year-AI/tree/master/TowerDefense%202.0)
-
-  - **Flocking**  
-    <b>Tech:</b> C++, SFML  
-    <b>Description:</b> AI flocking for marine animals reacting to predators.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Final-Year-AI/tree/master/SFML%20Flocking/Flocking)
-
-  - **Flappy Bird**  
-    <b>Tech:</b> C++, SFML  
-    <b>Description:</b> Genetic algorithm trains a neural network to play Flappy Bird.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/Final-Year-AI/tree/master/FlappyBird%202.0)
-
-  - **Training Academy**  
-    <b>Tech:</b> C#, Unity  
-    <b>Description:</b> A fully dynamic training tool prototype created between second and final year.  
-    <b>Link:</b> [GitHub](https://github.com/davidtaylor6130/PrivateRepSplashPage)
-
-  - **Chronological**  
-    <b>Tech:</b> C#, Unity, Game Jam  
-    <b>Description:</b> Global Game Jam 2020 entry about repairing a rift in time.  
-    <b>Link:</b> [GitHub](https://github.com/limanniel/Chronological)
-
-  - **Coconut Sniper**  
-    <b>Tech:</b> C#, Unity, Mobile  
-    <b>Description:</b> A quick contest prototype turned Android game. Currently planning a major remake.  
-    <b>Link:</b> [Google Play](https://play.google.com/store/apps/details?id=com.TaylorMadeCode.CoconutSniper)
-
-</details>
-
-<details>
-  <summary><b>🛒 Unity Asset Store Releases</b></summary>
+  <summary><strong>Unity Asset Store Releases</strong></summary>
 
   - **Taylor Made Code Core**  
-    <b>Tech:</b> Unity  
-    <b>Description:</b> The foundational backend for multiple TMC scripts, featuring a custom UI system.  
-    <b>Link:</b> [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/taylor-made-code-core-210510)
+    - **Description:** Backend for TMC scripts w/ custom UI system.  
+    - **Link:** [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/taylor-made-code-core-210510)
 
   - **Free Sound Manager**  
-    <b>Tech:</b> Unity  
-    <b>Description:</b> Enhances Unity Audio Sources with random playback, fade in/out, and more.  
-    <b>Link:</b> [Unity Asset Store](https://assetstore.unity.com/packages/tools/audio/free-sound-manager-216294)
-
-  - **Free Level Load**  
-    <b>Tech:</b> Unity  
-    <b>Description:</b> Seamlessly load levels in Unity with minimal configuration.  
-    <b>Link:</b> [Unity Asset Store](https://assetstore.unity.com/packages/tools/audio/free-sound-manager-216294)
-
-  - **Free Simple Collision**  
-    <b>Tech:</b> Unity  
-    <b>Description:</b> Simplified collision detection—ideal for prototyping and event triggers.  
-    <b>Link:</b> *(Coming Soon)*
-
-  - **Free Toggle On Off**  
-    <b>Tech:</b> Unity  
-    <b>Description:</b> Quickly toggle GameObjects on/off without coding.  
-    <b>Link:</b> *(Coming Soon)*
-
-  - **Free Cinemachine Camera Controller**  
-    <b>Tech:</b> Unity  
-    <b>Description:</b> Advanced camera control for Cinemachine via UI—no custom coding needed.  
-    <b>Link:</b> *(Coming Soon)*
-
-  - **Free Simple Shooting**  
-    <b>Tech:</b> Unity  
-    <b>Description:</b> Basic 2D/3D shooting mechanics with zero-code setup.  
-    <b>Link:</b> *(Coming Soon)*
+    - **Description:** Audio Source enhancements (random playback, fade, etc.).  
+    - **Link:** [Unity Asset Store](https://assetstore.unity.com/packages/tools/audio/free-sound-manager-216294)
 
   - **No Code Patrolling AI**  
-    <b>Tech:</b> Unity, AI  
-    <b>Description:</b> A UI-based system to quickly set up patrolling AI (cars, NPCs, etc.).  
-    <b>Link:</b> [Unity Asset Store](https://assetstore.unity.com/packages/tools/behavior-ai/normal-ai-patrol-208801)
+    - **Description:** Quick AI pathing setup for cars, animals, NPCs.  
+    - **Link:** [Unity Asset Store](https://assetstore.unity.com/packages/tools/behavior-ai/normal-ai-patrol-208801)
 
   - **8-in-1 Cursor Movement**  
-    <b>Tech:</b> Unity  
-    <b>Description:</b> Multiple styles of cursor-driven movement (teleport, physics, direct, rotation, etc.).  
-    <b>Link:</b> [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/normal-cursor-movement-269157)
+    - **Description:** Multiple cursor-based movement styles for 2D/3D.  
+    - **Link:** [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/normal-cursor-movement-269157)
 
-  - **Pro Reset Game (Alpha)**  
-    <b>Tech:</b> Unity  
-    <b>Description:</b> An interface for resetting or fully reloading game states in Unity.  
-    <b>Link:</b> *(Coming Soon)*
-
+  <!-- Add your other assets similarly -->
 </details>
 
 <details>
-  <summary><b>🌐 Website Projects</b></summary>
+  <summary><strong>Web Projects</strong></summary>
 
   - **TheVideoConverterHub.com**  
-    <b>Tech:</b> Website  
-    <b>Description:</b> An online video conversion service using FFmpeg, with an upcoming React-based redesign.  
-    <b>Link:</b> [Website](https://www.thevideoconverterhub.com/)
+    - **Description:** Online video conversion w/ FFmpeg. Currently building a React-based redesign.  
+    - **Link:** [Website](https://www.thevideoconverterhub.com/)
 
   - **demo.taylormadecode.com**  
-    <b>Tech:</b> Website  
-    <b>Description:</b> A hub demonstrating various Taylor Made Code assets. Custom React + Unity WebGL integration.  
-    <b>Link:</b> [Website](https://demo.taylormadecode.com/?product=8-in-1_Cursor_Movement&version=latest)
+    - **Description:** Demos for TMC products, featuring custom Unity WebGL + React integration.  
+    - **Link:** [Website](https://demo.taylormadecode.com/)
 
   - **docs.taylormadecode.com**  
-    <b>Tech:</b> Website  
-    <b>Description:</b> Documentation for all TMC products, powered by a custom Doxygen pipeline.  
-    <b>Link:</b> [Website](https://docs.taylormadecode.com/)
+    - **Description:** Docs for all TMC products, powered by custom Doxygen pipeline.  
+    - **Link:** [Website](https://docs.taylormadecode.com/)
 
   - **gardening4you.co.uk**  
-    <b>Tech:</b> Website  
-    <b>Description:</b> A dynamic gardening site that updates based on seasons and holidays.  
-    <b>Link:</b> [Website](https://www.gardening4you.co.uk/)
+    - **Description:** Seasonal gardening site updates automatically.  
+    - **Link:** [Website](https://www.gardening4you.co.uk/)
+</details>
 
-  - **onlineriffdoctor.pages.dev**  
-    <b>Tech:</b> Website  
-    <b>Description:</b> A quick-lab tool for editing and analyzing Riff Files, built in a single evening.  
-    <b>Link:</b> [Website](https://onlineriffdoctor.pages.dev)
+<details>
+  <summary><strong>Games & Other Repositories</strong></summary>
 
-  - **Portfolio Backend**  
-    <b>Tech:</b> C++, MacOS, Linux, JavaScript, JSON  
-    <b>Description:</b> A custom cross-platform app to quickly update website content via DearImGUI.  
-    <b>Link:</b> *(Planned Open Source Once Tested)*
-    
+  - **Escape The Code** (C#, Unity) – [GitHub](https://github.com/davidtaylor6130/Search-For-A-Star)  
+  - **WhatsChat** (C#, Networking) – [GitHub](https://github.com/davidtaylor6130/multi-threaded-networking/tree/master/Server)  
+  - **Low Level Optimisations** (C++, Linux) – [GitHub](https://github.com/davidtaylor6130/Low-Level-Programming)  
+  - **Lurking In The Dark** (C#, Unity) – [GitHub](https://github.com/davidtaylor6130/Lurking-In-The-Dark)  
+  - **Implode Engine** (C++, DirectX 11) – [GitHub](https://github.com/davidtaylor6130/further-graphical-systems)  
+  - **Coconut Sniper** (C#, Unity, Mobile) – [Google Play](https://play.google.com/store/apps/details?id=com.TaylorMadeCode.CoconutSniper)  
+  <!-- ...and so forth -->
 </details>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://davidtaylor6130.github.io/" target="_blank">
@@ -361,9 +236,9 @@ Below is a curated list of my projects. (Hover or click to expand each section!)
 ---
 
 <p align="center">
-  <i>Thank you for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate. Happy coding!</i>
+  <i>Thanks for stopping by! Feel free to reach out or explore my repos. Happy coding, and may your arrows always hit the target!</i>
 </p>
 
 <p align="center">
-  <em>Last Updated: January 29, 2025</em>
+  <em>Last Updated: [Replace with Current Date]</em>
 </p>
