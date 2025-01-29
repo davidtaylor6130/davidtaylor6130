@@ -40,9 +40,16 @@
 
 ### 🎯 Current Goals
 
-- ❔ **Buy my first home**  
+- ❔ **Release my first game to steam**
+- ❔ **finish all in progress projects**
+- ❔ **Match or beat my 2024 total miles and walking streak (636miles and 1st Jan -> 8th sep) **
+
+
+### 🎯 2024 Goals
+
+- ✅ **Buy my first home**  
 - ✅ **Promoted from Junior Software Developer to Software Developer**  
-- ❔ **Release more code assets and speak about them**  
+- ❌ **Release more code assets and speak about them**
 
 ### 🏹 Fun Fact
 
