@@ -35,8 +35,7 @@
 - **3+ years** of industrial experience, primarily in **C++**.
 - Also skilled in **C#, JavaScript, Python, React,** and **Tailwind**.
 - Interested in **AI**, **Web Development**, and building on **Unity**.
-- My code powers **thousands of stores across the UK**—stability is everything.
-- Outside coding: I’m an **archery** enthusiast, cyclist, 3D printing hobbyist, and nature walker.
+- Outside coding: I’m a gamer, **archery** enthusiast, cyclist, 3D printing hobbyist, and nature walker.
 
 ### 🎯 Current Goals
 
