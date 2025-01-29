@@ -101,21 +101,6 @@
   <picture>
     <!-- Light Mode -->
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=davidtaylor6130&show_icons=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <!-- Dark Mode -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=davidtaylor6130&show_icons=true&theme=dracula&hide_border=true"
-      alt="David's GitHub Stats"
-      width="400"
-    />
-  </picture>
-  <br/>
-
-  <picture>
-    <!-- Light Mode -->
-    <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtaylor6130&layout=compact&theme=default&hide_border=true"
       media="(prefers-color-scheme: light)"
     />
@@ -124,22 +109,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidtaylor6130&layout=compact&theme=dracula&hide_border=true"
       alt="David's Top Languages"
       width="335"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <!-- Light Mode -->
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=davidtaylor6130&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <!-- Dark Mode -->
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=davidtaylor6130&theme=dracula&hide_border=true"
-      alt="GitHub Streak"
-      width="400"
     />
   </picture>
 </p>
