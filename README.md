@@ -40,22 +40,28 @@
 ### 🎯 Current Goals
 
 - ❔ **Release my first game to steam**
-- ❔ **finish all in progress projects** (3/20)
-- -  ✅ OnlineFfmpegRunner.pages.dev
-  - TheVideoConverterHub.pages.dev (v2 of TheVideoConverterHub.com)
-  -  ✅ TheAudioConverterHub.pages.dev
-  - ThePhotoConverterHub.pages.dev
-  -  ✅ www.davidtaylor6130.co.uk
-  - Pro Reset Game
+- ❔ **Finish all in progress projects** (3/20)
+- ❔ **Match or beat my 2024 total miles and walking streak (636 miles and 1st Jan -> 8th Sep)** 
+
+<details>
+  <summary><strong>Progress on Finishing All My Projects</strong></summary>
+  
+  - ✅ OnlineFfmpegRunner.pages.dev  
+  - TheVideoConverterHub.pages.dev (v2 of TheVideoConverterHub.com)  
+  - ✅ TheAudioConverterHub.pages.dev  
+  - ThePhotoConverterHub.pages.dev  
+  - ✅ www.davidtaylor6130.co.uk  
+  - Pro Reset Game  
   - Doodle Defense
-- ❔ **Match or beat my 2024 total miles and walking streak (636 miles and 1st Jan -> 8th sep)** 
+</details>
 
-
-### 🎯 2024 Goals
-
-- ✅ **Buy my first home**  
-- ✅ **Promoted from Junior Software Developer to Software Developer**  
-- ❌ **Release more code assets and speak about them**
+<details>
+  <summary><strong>Previous NewYearGoals</strong></summary>
+  - 2024 Goals
+  - ✅ **Buy my first home**  
+  - ✅ **Promoted from Junior Software Developer to Software Developer**  
+  - ❌ **Release more code assets and speak about them**
+</details>
 
 ### 🏹 Fun Fact
 
@@ -163,8 +169,6 @@ Below is a **curated** selection of my work. [Explore all repos here.](https://g
   - **8-in-1 Cursor Movement**  
     - **Description:** Multiple cursor-based movement styles for 2D/3D.  
     - **Link:** [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/normal-cursor-movement-269157)
-
-  <!-- Add your other assets similarly -->
 </details>
 
 <details>
@@ -195,8 +199,7 @@ Below is a **curated** selection of my work. [Explore all repos here.](https://g
   - **Low Level Optimisations** (C++, Linux) – [GitHub](https://github.com/davidtaylor6130/Low-Level-Programming)  
   - **Lurking In The Dark** (C#, Unity) – [GitHub](https://github.com/davidtaylor6130/Lurking-In-The-Dark)  
   - **Implode Engine** (C++, DirectX 11) – [GitHub](https://github.com/davidtaylor6130/further-graphical-systems)  
-  - **Coconut Sniper** (C#, Unity, Mobile) – [Google Play](https://play.google.com/store/apps/details?id=com.TaylorMadeCode.CoconutSniper)  
-  <!-- ...and so forth -->
+  - **Coconut Sniper** (C#, Unity, Mobile) – [Google Play](https://play.google.com/store/apps/details?id=com.TaylorMadeCode.CoconutSniper)
 </details>
 
 ---
@@ -222,5 +225,5 @@ Below is a **curated** selection of my work. [Explore all repos here.](https://g
 </p>
 
 <p align="center">
-  <em>Last Updated: 29/01/25</em>
+  <em>Last Updated: 23/03/25</em>
 </p>
