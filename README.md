@@ -40,7 +40,14 @@
 ### 🎯 Current Goals
 
 - ❔ **Release my first game to steam**
-- ❔ **finish all in progress projects**
+- ❔ **finish all in progress projects** (3/20)
+- -  ✅ OnlineFfmpegRunner.pages.dev
+  - TheVideoConverterHub.pages.dev (v2 of TheVideoConverterHub.com)
+  -  ✅ TheAudioConverterHub.pages.dev
+  - ThePhotoConverterHub.pages.dev
+  -  ✅ www.davidtaylor6130.co.uk
+  - Pro Reset Game
+  - Doodle Defense
 - ❔ **Match or beat my 2024 total miles and walking streak (636 miles and 1st Jan -> 8th sep)** 
 
 
