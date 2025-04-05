@@ -40,7 +40,7 @@
 ### 🎯 Current Goals
 
 - ❔ **Release my first game to steam**
-- ❔ **Finish all in progress projects** (3/18)
+- ❔ **Finish all in progress projects** (4/18)
 - ❔ **Match or beat my 2024 total miles and walking streak (636 miles and 1st Jan -> 8th Sep)** 
 
 <details>
