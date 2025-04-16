@@ -40,19 +40,19 @@
 ### 🎯 Current Goals
 
 - ❔ **Release my first game to steam**
-- ❔ **Finish all in progress projects** (4/18)
+- ❔ **Finish all in progress projects** (5/18)
 - ❔ **Match or beat my 2024 total miles and walking streak (636 miles and 1st Jan -> 8th Sep)** 
 
 <details>
   <summary><strong>Progress on Finishing All My Projects</strong></summary>
-  
   - ✅ OnlineFfmpegRunner.pages.dev  (A website to run ffmpeg commands on without needing to install it)
   - ✅ TheVideoConverterHub.pages.dev (v2 of TheVideoConverterHub.com, a one stop shop for free and private video convertions)  
   - ✅ TheAudioConverterHub.pages.dev  (One stop shop for free and private audio convertions)
-  - ThePhotoConverterHub.pages.dev  (One stop shop for free and private photo convertions)
+  - ✅ ThePhotoConverterHub.pages.dev  (One stop shop for free and private photo convertions)
   - ✅ www.davidtaylor6130.co.uk  (brand new personal website)
-  - Pro Reset Game (A reset system that works with all other unity script by acsessing and altering unity serlzation)
   - Doodle Defense (a 2d card based game of building a town and defending from waves of monitors)
+  - interplanitory Delivery (A game where you shoot rockets into space delivering packages balancing speed and fuel usage)
+  - Pro Reset Game (A reset system that works with all other unity script by acsessing and altering unity serlzation)
   - Free Level Load (Simple non code level loading script)
   - Free Simple Shooting (Simple shooting script for raycase, tranform, physics based)
   - Free Cinemachine Camera controller (A simplified controller to the cinimachine camera transitions, and a lightweight version not requiring cinemachine install)
@@ -63,7 +63,6 @@
   - Pro Build System. (Building system for games made in unity)
   - Card System (A card deck system for unity)
   - Free Editior Extention (Multiple add on's to the unity editor)
-  - interplanitory Delivery (A game where you shoot rockets into space delivering packages balancing speed and fuel usage)
 </details>
 
 <details>
