@@ -44,7 +44,9 @@
 - ❔ **Match or beat my 2024 total miles and walking streak (636 miles and 1st Jan -> 8th Sep)** 
 
 <details>
+
   <summary><strong>Progress on Finishing All My Projects</strong></summary>
+  
   - ✅ OnlineFfmpegRunner.pages.dev  (A website to run ffmpeg commands on without needing to install it)
   - ✅ TheVideoConverterHub.pages.dev (v2 of TheVideoConverterHub.com, a one stop shop for free and private video convertions)  
   - ✅ TheAudioConverterHub.pages.dev  (One stop shop for free and private audio convertions)
