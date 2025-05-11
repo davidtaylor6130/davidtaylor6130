@@ -40,7 +40,7 @@
 ### 🎯 Current Goals
 
 - ❔ **Release my first game to steam**
-- ❔ **Finish all in progress projects** (5/18)
+- ❔ **Finish all in progress projects** (7/20)
 - ❔ **Match or beat my 2024 total miles and walking streak (636 miles and 1st Jan -> 8th Sep)** 
 
 <details>
@@ -52,6 +52,8 @@
   - ✅ TheAudioConverterHub.pages.dev  (One stop shop for free and private audio convertions)
   - ✅ ThePhotoConverterHub.pages.dev  (One stop shop for free and private photo convertions)
   - ✅ www.davidtaylor6130.co.uk  (brand new personal website)
+  - ✅ Standly Fatmax Battery Caddy (A Cad project to store Standly fatmax batterys together)
+  - ✅ Smart Meter Monitor shelf (A Cad Project to make a shelf that holds my houses Smart Meter Monitor on the wall and not on the floor)
   - Doodle Defense (a 2d card based game of building a town and defending from waves of monitors)
   - interplanitory Delivery (A game where you shoot rockets into space delivering packages balancing speed and fuel usage)
   - Pro Reset Game (A reset system that works with all other unity script by acsessing and altering unity serlzation)
