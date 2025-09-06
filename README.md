@@ -196,13 +196,13 @@ Below is a **curated** selection of my work. [Explore all repos →](https://git
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://davidtaylor6130.github.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" width="30"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" alt="Website"/>
   </a>
   <a href="https://twitter.com/DavidTaylor6130" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="30"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/davidtaylor6130/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
