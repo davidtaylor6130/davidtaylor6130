@@ -7,7 +7,10 @@
 
 <h1 align="center">David Taylor</h1>
 <p align="center">
-  <em>Maker at heart • C++ Craftsman • Unity Asset Creator • Archer</em>
+  <em>Maker at heart • Passionate programmer • Unity asset creator</em>
+</p>
+<p align="center">
+  <em>Coding is my passion and what I truly enjoy.</em>
 </p>
 
 <p align="center">
@@ -36,52 +39,50 @@
 ---
 
 ### ✨ About Me
+- Coding is my passion—I love building things both at work and in my spare time.
 - **3+ years** of industrial experience, primarily in **C++**.
 - Skilled in **C#, JavaScript, Python, React,** and **Tailwind**.
 - Fascinated by **AI**, **web development**, and building in **Unity**.
-- Outside the code editor: gamer, **archery** enthusiast, cyclist, 3D-printing hobbyist, and nature walker.
+- Outside the editor: I enjoy gaming, archery, cycling, 3D printing, and nature walks.
 
 ### 🚧 Currently Building
-- [ ] **Release my first game to Steam**
-- [ ] **Finish all in progress projects** (7/20)
-- [ ] **Match or beat my 2024 total miles and walking streak (636 miles and 1 Jan – 8 Sep)**
+- ☐ **Release my first game to Steam**
+- ☐ **Finish all in progress projects** (7/20)
+- ☐ **Match or beat my 2024 total miles and walking streak (636 miles and 1 Jan – 8 Sep)**
 
 <details>
   <summary><strong>Project Completion Tracker</strong></summary>
 
-  - [x] OnlineFfmpegRunner.pages.dev (A website to run FFmpeg commands without installing it)
-  - [x] TheVideoConverterHub.pages.dev (v2 of TheVideoConverterHub.com, a one-stop shop for free and private video conversions)
-  - [x] TheAudioConverterHub.pages.dev (One stop shop for free and private audio conversions)
-  - [x] ThePhotoConverterHub.pages.dev (One stop shop for free and private photo conversions)
-  - [x] www.davidtaylor6130.co.uk (brand new personal website)
-  - [x] Stanley Fatmax Battery Caddy (A CAD project to store Stanley Fatmax batteries together)
-  - [x] Smart Meter Monitor shelf (A CAD project to mount my house's Smart Meter monitor on the wall, not the floor)
-  - [ ] Doodle Defense (a 2D card-based game of building a town and defending from waves of monsters)
-  - [ ] Interplanetary Delivery (Shoot rockets into space delivering packages while balancing speed and fuel)
-  - [ ] Pro Reset Game (A reset system that works with all other Unity scripts by accessing and altering Unity serialization)
-  - [ ] Free Level Load (Simple no-code level loading script)
-  - [ ] Free Simple Shooting (Simple shooting script for raycast, transform, and physics based)
-  - [ ] Free Cinemachine Camera Controller (Simplified controller for Cinemachine camera transitions and a lightweight version not requiring Cinemachine install)
-  - [ ] Free Simple Collision Detection (Simple script to handle all collisions)
-  - [ ] Free Tweening (A set of tweening scripts for quick and easy animations)
-  - [ ] TMC Core V3 (A custom editor system for Unity components that increases the look and usability of code)
-  - [ ] Pro NavMesh Controllable Entity (An upgraded and performant NavMesh-type component)
-  - [ ] Pro Build System (Building system for games made in Unity)
-  - [ ] Card System (A card deck system for Unity)
-  - [ ] Free Editor Extension (Multiple add-ons to the Unity editor)
+  - ✅ OnlineFfmpegRunner.pages.dev (A website to run FFmpeg commands without installing it)
+  - ✅ TheVideoConverterHub.pages.dev (v2 of TheVideoConverterHub.com, a one-stop shop for free and private video conversions)
+  - ✅ TheAudioConverterHub.pages.dev (One stop shop for free and private audio conversions)
+  - ✅ ThePhotoConverterHub.pages.dev (One stop shop for free and private photo conversions)
+  - ✅ www.davidtaylor6130.co.uk (brand new personal website)
+  - ✅ Stanley Fatmax Battery Caddy (A CAD project to store Stanley Fatmax batteries together)
+  - ✅ Smart Meter Monitor shelf (A CAD project to mount my house's Smart Meter monitor on the wall, not the floor)
+  - ☐ Doodle Defense (a 2D card-based game of building a town and defending from waves of monsters)
+  - ☐ Interplanetary Delivery (Shoot rockets into space delivering packages while balancing speed and fuel)
+  - ☐ Pro Reset Game (A reset system that works with all other Unity scripts by accessing and altering Unity serialization)
+  - ☐ Free Level Load (Simple no-code level loading script)
+  - ☐ Free Simple Shooting (Simple shooting script for raycast, transform, and physics based)
+  - ☐ Free Cinemachine Camera Controller (Simplified controller for Cinemachine camera transitions and a lightweight version not requiring Cinemachine install)
+  - ☐ Free Simple Collision Detection (Simple script to handle all collisions)
+  - ☐ Free Tweening (A set of tweening scripts for quick and easy animations)
+  - ☐ TMC Core V3 (A custom editor system for Unity components that increases the look and usability of code)
+  - ☐ Pro NavMesh Controllable Entity (An upgraded and performant NavMesh-type component)
+  - ☐ Pro Build System (Building system for games made in Unity)
+  - ☐ Card System (A card deck system for Unity)
+  - ☐ Free Editor Extension (Multiple add-ons to the Unity editor)
 </details>
 
 <details>
   <summary><strong>Previous New Year Goals</strong></summary>
 
   - 2024 Goals
-  - [x] **Buy my first home**
-  - [x] **Promoted from Junior Software Developer to Software Developer**
-  - [ ] **Release more code assets and speak about them**
+  - ✅ **Buy my first home**
+  - ✅ **Promoted from Junior Software Developer to Software Developer**
+  - ☐ **Release more code assets and speak about them**
 </details>
-
-### 🏹 Fun Fact
-- **Archery nerd:** I’ve mastered shooting three arrows into the bullseye from 20m.
 
 ---
 
@@ -208,9 +209,9 @@ Below is a **curated** selection of my work. [Explore all repos →](https://git
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! Feel free to reach out or explore my repos. Happy coding, and may your arrows always hit the target!</i>
+  <i>Thanks for stopping by! Feel free to reach out or explore my repos. Happy coding and keep building!</i>
 </p>
 
 <p align="center">
-  <em>Last Updated: 23/03/25</em>
+  <em>Last Updated: 06/09/25</em>
 </p>
