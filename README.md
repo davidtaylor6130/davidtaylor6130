@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.davidtaylor6130.co.uk/">
-  <img src="https://demo.demolab.com/typewriter?text=YOUR%20TEXT&width=620&height=50&font-size=42&color=%23ffffff&bg-color=%231a1a2e" alt="Typewriter Text">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=740&height=50&lines=Maker+at+heart%2C+passionate+programmer;Unity+asset+creator+%26+homelab+tinkerer;Currently+building+local+LLM+tools+%26+AI+automation" alt="What I do"/>
   </a>
 </p>
 
