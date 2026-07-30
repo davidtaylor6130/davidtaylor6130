@@ -49,8 +49,8 @@
 - Outside the editor: gaming, archery, cycling, 3D printing, and nature walks.
 
 ### 🚧 Currently Building
-- [ ] 🤖 **Local LLM runner & wrapper** — self-hosted AI tooling I can build on top of
-- [ ] ⚙️ **AI automation workflows** with **n8n**
+- [x] 🤖 **Local LLM runner & wrapper** — self-hosted AI tooling I can build on top of
+- [x] ⚙️ **AI automation workflows** with **n8n**
 - [x] 🏠 **Homelab build-out** — self-hosting the things I rely on
 - [x] 🎮 **Ship more free Unity assets** — *Free Simple Shoot* just released
 - [ ] 🚴 **Stay active** — keep the cycling & walking streak going
